@@ -9,6 +9,8 @@ John Baskerville
 
 - [John Baskerville 3- Hyperlinks](https://bigajwiktoria.github.io/john_baskerville/john_baskerville3.html)
 
+- [John Baskerville 4- Tables](https://bigajwiktoria.github.io/john_baskerville/john_baskerville4.html)
+
 History of Type
 -----------------
 - [History of Type 1-Headings and Paragraphs](https://bigajwiktoria.github.io/john_baskerville/a_brief_history_of_type.html) 

@@ -18,3 +18,5 @@ History of Type
 - [History of Type 1-Headings and Paragraphs](https://bigajwiktoria.github.io/john_baskerville/a_brief_history_of_type.html) 
 
 - [History of Type 2-Lists and Hyperlinks](https://bigajwiktoria.github.io/john_baskerville/a_brief_history_of_type2.html)
+
+- [History of Type 3-Tables and Images](https://bigajwiktoria.github.io/john_baskerville/a_brief_history_of_type2.html)

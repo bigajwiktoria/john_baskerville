@@ -13,6 +13,8 @@ John Baskerville
 
 - [John Baskerville 5- Images](https://bigajwiktoria.github.io/john_baskerville/john_baskerville5.html)
 
+- [John Baskerville 6-CSS ](https://bigajwiktoria.github.io/john_baskerville/john_baskerville6.html)
+
 History of Type
 -----------------
 - [History of Type 1-Headings and Paragraphs](https://bigajwiktoria.github.io/john_baskerville/a_brief_history_of_type.html) 

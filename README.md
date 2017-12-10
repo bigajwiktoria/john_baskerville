@@ -15,7 +15,7 @@ John Baskerville
 
 - [John Baskerville 6-CSS ](https://bigajwiktoria.github.io/john_baskerville/john_baskerville6.html)
 
-- [John Baskerville 7-CSS- Web Typography ](https://bigajwiktoria.github.io/john_baskerville/john_baskerville7.html)
+- [John Baskerville 7-CSS- Web Typography and Styling Tables ](https://bigajwiktoria.github.io/john_baskerville/john_baskerville7.html)
 
 History of Type
 -----------------

@@ -19,6 +19,8 @@ John Baskerville
 
 - [John Baskerville 8-CSS- Styling Background and Type ](https://bigajwiktoria.github.io/john_baskerville/john_baskerville8.html)
 
+- [John Baskerville 9-Flex- Adding Colour Boxes ](https://bigajwiktoria.github.io/john_baskerville/john_baskerville9.html)
+
 History of Type
 -----------------
 - [History of Type 1-Headings and Paragraphs](https://bigajwiktoria.github.io/john_baskerville/a_brief_history_of_type.html) 

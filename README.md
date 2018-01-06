@@ -30,3 +30,8 @@ History of Type
 - [History of Type 4- CSS](https://bigajwiktoria.github.io/john_baskerville/a_brief_history_of_type4.html)
 
 - [History of Type 5- CSS-Web Typography and Styling Tables](https://bigajwiktoria.github.io/john_baskerville/a_brief_history_of_type5.html)
+
+
+Type Exercise
+-----------------
+- [John Baskerville Type Exercise ](https://bigajwiktoria.github.io/john_baskerville/baskerville_exercise.html)

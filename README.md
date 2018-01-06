@@ -33,6 +33,9 @@ History of Type
 
 - [History of Type 5- CSS-Web Typography and Styling Tables](https://bigajwiktoria.github.io/john_baskerville/a_brief_history_of_type5.html)
 
+- [History of Type 6- Flex- Adding Colour Boxes](https://bigajwiktoria.github.io/john_baskerville/a_brief_history_of_type7.html)
+
+
 
 Type Exercise
 -----------------
